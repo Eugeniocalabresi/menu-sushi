@@ -7,7 +7,7 @@ First of all, go to "nodejs-php" folder and install Express to run php API with 
 Now we can start the php server:
 -  node node.js
 
-Then the server will be listening on port 5000.
+Then the server will be listening on port 5000 (leave this prompt open).
 
 After this open a new shell and go to the "menu-sushi" folder to install node dependencies and run the react app:
 -  npm install
