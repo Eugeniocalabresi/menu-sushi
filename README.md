@@ -9,10 +9,7 @@ Now we can start the php server:
 
 Then the server will be listening on port 5000.
 
-After this go to the "menu-sushi" to install node dependencies and run the react app:
-
--  cd..
--  cd menu-sushi
+After this open a new shell and go to the "menu-sushi" folder to install node dependencies and run the react app:
 -  npm install
 -  npm start
 
